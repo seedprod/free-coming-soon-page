@@ -1,5 +1,6 @@
 
-Welcome to our free coming soon page HTML template by http://comingsoonpage.com. 
+#Free Coming Soon Page HTML Template 
+by http://comingsoonpage.com. 
 
 Get your free download at https://www.seedprod.com/free-coming-soon-page/
 
