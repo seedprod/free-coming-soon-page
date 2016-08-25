@@ -1,6 +1,8 @@
 
 # Welcome to our free coming soon page  HTML template by http://comingsoonpage.com. Get your free download at https://www.seedprod.com/free-coming-soon-page/
 
+View Demo https://seedprod.github.io/free-coming-soon-page/
+
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 http://creativecommons.org/licenses/by-nc-nd/4.0/
 
@@ -16,6 +18,7 @@ To get started follow this checklist:
 	6. Set your *Email* on line 314 using the href attribute.
 	7. Set your background image on line 63, see file README.mb for additional background images.
 	8. Set your MailChimp email post URL on line 300 See video:
+	9. FTP to your Website. See Video:
 
 Pre selected background images values:
 * Wave: https://images.unsplash.com/photo-1449168013943-3a15804bb41c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1958d4bfb59a246c6092ff0daabd284b
