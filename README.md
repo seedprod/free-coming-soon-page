@@ -18,5 +18,10 @@ To get started follow this checklist:
 
 Pre selected background images values:
 * Wave: https://images.unsplash.com/photo-1449168013943-3a15804bb41c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1958d4bfb59a246c6092ff0daabd284b
+* Wood: https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=46a85a1451e47aea5152ade8299f2894
+* Mountain: https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=bb861c990a141e90c492fe79f7ff4307
+* Sunset: https://images.unsplash.com/uploads/1412276054206cd55c23b/e04e888a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=f847427a77aaeb2f779366fc80446628
+* Ballons: https://images.unsplash.com/reserve/L55hYy77SLqb6zeTMlWr_IMG_9035.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=be8f13a3ec5d152f60ede73809372c97
+* Bridge: https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=4a065bd135cef62a0425f00234a43b08
 
 ###### Backgroung Images are from Unsplash.com and are license under Creative Commons 0 (Public Domain)
